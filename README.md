@@ -28,7 +28,6 @@ Antes de usar o programa, certifique-se de ter o Python instalado em seu sistema
 1. Clone o repositório ou baixe o código-fonte.
    ```bash
    git clone https://github.com/Henry0005/TikTok-Downloader.git
-   cd tiktok-video-downloader
     ```
 
 2. Instale a dependência yt-dlp utilizando o pip:
